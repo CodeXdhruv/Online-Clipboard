@@ -10,7 +10,6 @@
       "required": false
     }
   },
-  "envPrefix": "NEXT_PUBLIC_",
   "functions": {
     "api/**": {
       "memory": 1024,
