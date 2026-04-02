@@ -5,10 +5,7 @@
   "framework": "nextjs",
   "outputDirectory": ".next",
   "env": {
-    "NEXT_PUBLIC_BACKEND_URL": {
-      "description": "Backend API URL for the clipboard application",
-      "required": false
-    }
+    "NEXT_PUBLIC_BACKEND_URL": "http://localhost:3001"
   },
   "functions": {
     "api/**": {
